@@ -1,2 +1,6 @@
 def perimetr_func():
-	pass
+	summa = 
+	for storona in arr:
+		summa = storona
+	retern summa
+	
